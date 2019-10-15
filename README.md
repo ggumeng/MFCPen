@@ -1,1 +1,1 @@
-# MFCPen
+# md2
